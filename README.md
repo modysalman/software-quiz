@@ -1,1 +1,1 @@
-# software-quiz
+# Software-diagrams
